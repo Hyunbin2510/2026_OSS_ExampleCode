@@ -4,3 +4,5 @@
 conda 환경이 세팅되어있다는 가정하에 진행
 
 conda env create -f environment.yaml
+
+참고 https://docs.ultralytics.com/
